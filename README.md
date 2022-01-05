@@ -1,4 +1,4 @@
-# Typing Speed Test in React
+# Marvel Fandom in React
 
 #### A basic React Website using
 
